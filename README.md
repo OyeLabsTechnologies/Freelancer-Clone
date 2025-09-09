@@ -50,7 +50,7 @@ These features create a professional, reliable, and easy-to-use freelance market
 
 ***Step 3: Share Your Platform’s Value*** 
 
-Your Freelancer Clone isn’t just a marketplace—it’s a solution for efficient hiring and earning. Use blogs, social media, and launch campaigns to explain how your platform saves time, ensures secure payments, and connects businesses with skilled professionals quickly.  
+Your Freelancer Clone isn’t just a marketplace, it’s a solution for efficient hiring and earning. Use blogs, social media, and launch campaigns to explain how your platform saves time, ensures secure payments, and connects businesses with skilled professionals quickly.  
 
 ***Step 4: Build Trust with Insights***  
 
